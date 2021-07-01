@@ -4,7 +4,7 @@
 #
 Name     : pyroute2.ipdb
 Version  : 0.6.4
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/15/b5/2c166fe94d56417f369bb5a4d94a95a4bac4bfc96cdbb40e626c35741b4c/pyroute2.ipdb-0.6.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/15/b5/2c166fe94d56417f369bb5a4d94a95a4bac4bfc96cdbb40e626c35741b4c/pyroute2.ipdb-0.6.4.tar.gz
 Summary  : Python Netlink library: IPDB module
